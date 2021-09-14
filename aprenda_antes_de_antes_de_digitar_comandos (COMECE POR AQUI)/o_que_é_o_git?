@@ -1,0 +1,14 @@
+O que é o git afinal?
+
+Git é um sistema de controle de versão de arquivos. Você já deve ter ouvido falar por aí que ele serve para fazer o "versionamento de arquivos",
+esse nome assusta, mas é bem simples, se liga no que o git é capaz:
+
+- Essa tecnologia pode registrar todas as alterações que são feitas ao longo do tempo no código base.
+- Pelo fato acima, uma de suas principais vantagens é conseguir acessar essas alterações no código e RESTAURAR para uma versão 
+anterior, caso você tenha perdido algum arquivo ou queira ver uma versão anterior mesmo.
+- É possível ver quem fez essas alterações e quando elas foram feitas.
+- Além dos fatores acima, com ele podemos desenvolver projetos na qual diversas pessoas podem contribuir simultaneamente no mesmo.
+
+Pelos fatores mencionados acima conseguimos concluir que o git é uma ótima ferramenta para acompanhar o desenvolvimento de um 
+projeto colaborativo e entender as atividades de cada pessoa envolvida. Isso além de conseguir controlar melhor as versões do 
+seu projeto. Com isso entendido, bora aprender mais sobre o github o/
