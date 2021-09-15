@@ -1,0 +1,24 @@
+Não vale a pena eu ficar escrevendo aqui como instalar o git em cada SO (Sistema Operacional), então eu vou recomendar um vídeo para
+cada SO, você assiste e é feliz pra sempre :)
+
+Como instalar o git no Ruimwindows: https://www.youtube.com/watch?v=KJ0nmxiRdlo
+(basicamente só next next)
+
+Como instalar o git no Linux: https://www.youtube.com/watch?v=DAFHoOA-Rao
+
+Como instalar o git no MAC: https://www.youtube.com/watch?v=DAFHoOA-Rao
+
+
+
+Agora sim vamos pra algo que valha a pena eu escrever aqui, depois de instalar o Git no seu computador, você precisa rodar 2 comandos
+básicos para configurar a ferramenta na sua máquina, sendo eles:
+
+git config --global user.name "Fulano de Tal"
+
+~ Esse comando vai setar o seu nome, sempre que você der um "commit", isto é, alterar o código e lançar uma nova versão dele, o seu nome
+e o seu email aparecerão lá, então não faça merda aqui ok? O outro comando é justamente o do email:
+
+git config --global user.email fulanodetal@exemplo.br
+
+~ Sempre que você dar aquele commit aparecerá o seu nome e o seu email, então, novamente, por favor não faça besteira aqui <3
+
