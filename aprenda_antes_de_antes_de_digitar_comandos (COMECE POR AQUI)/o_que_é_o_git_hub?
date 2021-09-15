@@ -1,0 +1,36 @@
+O que é o Github?
+
+Basicamente o Github nada mais é do que um SERVIÇO DE HOSPEDAGEM para projetos git. Isso mesmo, você tem o seu projeto git e pode
+subir ele pro Github em um "repositório", quando você ouvir repositório X, repositório Y, cara, cada repositório é um projeto de
+alguma coisa.
+
+Exemplo: 
+Vamos supor que o Facebook fosse open source e ele fosse upado no github em um repositório chamado Facebook. Esse repositório nada
+mais é que um um projeto que foi publicado no Github, entenderam?
+
+No Github você tem a opção de ter projetos/repositórios:
+- PRIVADOS (só quem você quer vê o seu código)
+- PÚBLICOS (qualquer um pode ver teu código)
+
+Esse serviço é excelente principalmente para:
+- Desenvolver o networking entre os programadores, principalmente ao desenvolver os chamados projetos open source
+- Ser seu portfólio online, ele juntamente ao Linkedin são as principais formas de pegar um job na área de programação
+
+
+
+Bônus:
+Comentados ali em cima sobre a possibilidade do Facebook ser OPEN SOURCE, mas afinal, que porra é essa?
+
+Um projeto ser open source, significa que QUALQUER UM, qualquer pessoa MESMO, pode ter acesso ao código, o que permite uma gama de 
+possibilidades enorme de edição desse código, pois todos podem vê-lo e edita-lo, criando novas versões e tudo mais.
+
+Exemplo de projeto open source: Linux, sistema operacional desenvolvido por uma cambada de gente. 
+Lembra que eu disse que o fato do código ser open source abre um leque enorme de possibilidades de edição do código, então... 
+O Linux é um sistema operacional com aproximadamente 600 distros (distribuições/versões) diferentes de um mesmo código base, isso 
+no momento em que estou escrevendo essa página pra vocês (14/09/2021). Olha lá o poder do open source em
+
+
+Um projeto não ser open source (código fechado) significa que o código não pode ser visto por qualquer pessoa, só pode ser pelo proprietário 
+daquelecódigo, que pode ser uma pessoa ou uma empresa.
+
+Exemplo de projeto de código fechado: Windows, sistema operacional desenvolvido pela Microsoft.
